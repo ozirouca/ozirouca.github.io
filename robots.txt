@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozirouca.github.io/WBe/sitemap_index.txt
+Sitemap: https://ozirouca.github.io/fsj/sitemap_index.txt
+Sitemap: https://ozirouca.github.io/nKw/sitemap_index.txt
+Sitemap: https://ozirouca.github.io/tTc/sitemap_index.txt
